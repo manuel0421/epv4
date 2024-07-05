@@ -1,0 +1,22 @@
+body{
+    background-color: lightseagreen;
+    text-align: left;
+}
+div{
+    text-align: right;
+    vertical-align:top;
+    font-size: 20px;
+    padding: 20px;
+    width: 100px;
+    height: 900px;
+    background-color: blanchedalmond;
+    color: brown;
+    margin:25px auto;
+    border: 2px solid black;
+    border-radius:15px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 17px;
+}
